@@ -1,0 +1,20 @@
+body {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #262626;
+}
+
+p {
+  font-size: 12px;
+  line-height: 12px;
+  background: url("lorennnn.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
